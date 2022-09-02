@@ -1,0 +1,8 @@
+.content-characters{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(43, 40, 40);
+
+}
